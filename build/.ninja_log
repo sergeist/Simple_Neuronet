@@ -1,3 +1,9 @@
 # ninja log v5
 489	633	1608835014033460704	Simple_Neuronet	c552e7929787ca9
 0	487	1608835013890126688	CMakeFiles/Simple_Neuronet.dir/main.cpp.o	ff4803d9095903dc
+0	455	1608836229054336487	CMakeFiles/Simple_Neuronet.dir/src/main.cpp.o	a016baa0489cac6e
+456	566	1608836229164337686	Simple_Neuronet	874f33dd23e97ac1
+2	863	1608900970259121298	CMakeFiles/Simple_Neuronet.dir/src/main.cpp.o	a016baa0489cac6e
+863	1037	1608900970439123326	Simple_Neuronet	874f33dd23e97ac1
+2	674	1608901365480240232	CMakeFiles/Simple_Neuronet.dir/src/main.cpp.o	a016baa0489cac6e
+674	819	1608901365623575180	Simple_Neuronet	874f33dd23e97ac1
